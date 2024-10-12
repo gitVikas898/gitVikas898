@@ -9,6 +9,6 @@ skills**.
 - 📫 How to reach me: vikas.kumar.singh1198@gmail.com.
 - ⚡ Fun fact: I built a cool **rock-paper-scissors game** recently using JavaScript, HTML, and CSS.
 
-[![gitVikas898 GitHub stats](https://github-readmestats.vercel.app/apiusername=gitVikas898&show_icons=true&theme=radical)
+
 
 Let's connect and build awesome projects together!
