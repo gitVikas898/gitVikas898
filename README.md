@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**gitVikas898/gitVikas898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about coding and web development! Here's a bit about me:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **improving my JavaScript and front-end skills**.
+- 👯 I’m looking to collaborate on **front-end development projects**.
+skills**.
+- 🌱 I’m currently learning **JavaScript, CSS Flexbox, and responsive design**.
+- 📫 How to reach me: vikas.kumar.singh1198@gmail.com.
+- ⚡ Fun fact: I built a cool **rock-paper-scissors game** recently using JavaScript, HTML, and CSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![gitVikas898 GitHub stats](https://github-readmestats.vercel.app/apiusername=gitVikas898&show_icons=true&theme=radical)
+
+Let's connect and build awesome projects together!
