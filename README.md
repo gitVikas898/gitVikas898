@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>🛠️ I’m currently working on **enhancing my JavaScript skills** by building exciting projects.<br><br> I’m looking to collaborate on front-end development projects to refine my skills.<br><br>🌱 I’m currently learning JavaScript, and Responsive Web Design , with plans to dive into React next.<br><br>🎯 My goal: Continuously learn and grow as a developer  each day, staying curious and improving my skill set.<br><br>📫 How to reach me: vikas.kumar.singh1198@gmail.com<br><br>⚡ Fun fact: I recently built a rock-paper-scissors game using JavaScript, HTML, and CSS, exploring DOM manipulation.<br>
+<br><br>🛠️ I’m currently working on **enhancing my JavaScript skills** by building exciting projects.<br><br> I’m looking to collaborate on front-end development projects to refine my skills.<br><br>🌱 I’m currently learning React<br><br>🎯 My goal: Continuously learn and grow as a developer  each day, staying curious and improving my skill set.<br><br>📫 How to reach me: vikas.kumar.singh1198@gmail.com<br><br>⚡ Fun fact: I recently built a rock-paper-scissors game using JavaScript, HTML, and CSS, exploring DOM manipulation.<br>
 
 
 ## 🌐 Socials:
