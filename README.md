@@ -1,6 +1,26 @@
-# 💫 About Me:
-#💻 About Me<br>Hi there! 👋 I'm Vikas, a passionate front-end developer and aspiring full-stack engineer. My journey into the tech world began with curiosity and a dream to build impactful solutions. Over time, I’ve acquired a strong foundation in HTML, CSS, JavaScript, and React, alongside a growing expertise in data structures and algorithms (DSA).<br><br>What drives me is the process of solving problems, building projects, and constantly learning. From creating intuitive user interfaces to understanding the intricacies of binary search trees and Dijkstra's algorithm, I love the challenge of turning ideas into reality.<br><br>🚀 What I’ve Learned So Far<br><br>-Front-End Development<br> -Built responsive websites and clones of platforms like Myntra and YouTube using HTML5, CSS3, and Tailwind CSS.<br> -Completed interactive projects like an e-commerce site and a rock-paper-scissors game.<br> -Gained proficiency in React through the Namaste React course and currenty working on NamsteGPT project<br><br>-Back-End Exploration<br>  -Starting to explore backend development with Go, aiming to create robust APIs.<br><br>-DSA <br>  -Studied linked lists, stacks, queues, trees, and graphs in depth through Colt Steele’s DSA course.<br>  -Solved problems using binary heaps, BFS, DFS, and Dijkstra’s Algorithm.<br>  -Practicing competitive programming on platforms like LeetCode and Codeforces.<br><br>🌱 What’s Next?<br>I’m currently working on:<br><br>-Completing full-stack projects to enhance my portfolio.<br>-Deep-diving into blockchain technology and Go programming.<br>-Preparing for competitive programming challenges and aiming to excel at CP on Codeforces.<br><br>✨ Fun Fact<br>I believe in the journey more than the destination. Every project, every solved algorithm problem, and every "aha" moment counts as a win. My mantra? 🌟 "Build your garden, and the butterflies will come!"<br><br>📫 Let’s Connect<br>Feel free to check out my repositories, and let’s collaborate on exciting projects! 😊<br><br><br>
+## 💻 About Me
+Hi there! 👋 I'm Vikas, a passionate front-end developer and aspiring full-stack engineer. My journey into the tech world began with curiosity and a dream to build impactful solutions. Over time, I’ve acquired a strong foundation in HTML, CSS, JavaScript, and React, alongside a growing expertise in data structures and algorithms (DSA).
 
+What drives me is the process of solving problems, building projects, and constantly learning. From creating intuitive user interfaces to understanding the intricacies of binary search trees and Dijkstra's algorithm, I love the challenge of turning ideas into reality.
+
+# 🚀Front-End Development
+  - Built responsive websites and clones of platforms like Myntra and YouTube using HTML5, CSS3, and Tailwind CSS.
+  - Completed interactive projects like an e-commerce site(Amazon clone) and a rock-paper-scissors game using Vanila Javascript.
+  - Gained proficiency in React through the Namaste React course and currently working on the NamsteGPT project.
+# ⚙ Back-End Exploration
+  - Starting to explore backend development with Go, aiming to create robust APIs.
+# 👩🏻‍💻 Data Structures & Algorithms (DSA) 
+  - Studied linked lists, stacks, queues, trees, and graphs in depth through Colt Steele’s DSA course.
+  - Solved problems on GFG,Leetcode and occasionaly on Codeforces(800)
+
+# 🌱 What’s Next?
+  - Getting into Backend development using Node Js
+  - Deep-diving into blockchain technology and Go programming.
+
+# ✨ Fun Fact 
+  - I believe in the journey more than the destination. Every project, every solved algorithm problem, and every "aha" moment counts as a win. My mantra? 🌟 "Build your garden, and the butterflies will come!"
+
+# Feel free to check out my repositories, and let’s collaborate on exciting projects! 😊
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vikas-kumar-singh-204742332) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DevProgressLogs) 
