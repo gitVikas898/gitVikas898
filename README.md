@@ -5,25 +5,26 @@ Hi there! 👋 I'm Vikas, a passionate front-end developer and aspiring full-sta
 What drives me is the process of solving problems, building projects, and constantly learning. From creating intuitive user interfaces to understanding the intricacies of binary search trees and Dijkstra's algorithm, I love the challenge of turning ideas into reality.
 
 🚀 What I’ve Learned So Far
-Front-End Development
-Built responsive websites and clones of platforms like Myntra and YouTube using HTML5, CSS3, and Tailwind CSS.
-Completed interactive projects like an e-commerce site and a rock-paper-scissors game.
-Gained proficiency in React through the Namaste React course.
 
-Back-End Exploration
-Starting to explore backend development with Go, aiming to create robust APIs.
+-Front-End Development
+ -Built responsive websites and clones of platforms like Myntra and YouTube using HTML5, CSS3, and Tailwind CSS.
+ -Completed interactive projects like an e-commerce site and a rock-paper-scissors game.
+ -Gained proficiency in React through the Namaste React course and currenty working on NamsteGPT project
 
-DSA Mastery
-Studied linked lists, stacks, queues, trees, and graphs in depth through Colt Steele’s DSA course.
-Solved problems using binary heaps, BFS, DFS, and Dijkstra’s Algorithm.
-Practicing competitive programming on platforms like LeetCode and Codeforces.
+-Back-End Exploration
+  -Starting to explore backend development with Go, aiming to create robust APIs.
+
+-DSA 
+  -Studied linked lists, stacks, queues, trees, and graphs in depth through Colt Steele’s DSA course.
+  -Solved problems using binary heaps, BFS, DFS, and Dijkstra’s Algorithm.
+  -Practicing competitive programming on platforms like LeetCode and Codeforces.
 
 🌱 What’s Next?
 I’m currently working on:
 
-Completing full-stack projects to enhance my portfolio.
-Deep-diving into blockchain technology and Go programming.
-Preparing for competitive programming challenges and aiming to excel at CP on Codeforces.
+-Completing full-stack projects to enhance my portfolio.
+-Deep-diving into blockchain technology and Go programming.
+-Preparing for competitive programming challenges and aiming to excel at CP on Codeforces.
 
 ✨ Fun Fact
 I believe in the journey more than the destination. Every project, every solved algorithm problem, and every "aha" moment counts as a win. My mantra? 🌟 "Build your garden, and the butterflies will come!"
