@@ -1,8 +1,5 @@
-# 💫 About Me:
+#💻 About Me
 <br><br>
-Here’s a polished and appealing GitHub profile summary based on your recent learning journey and aspirations:
-
-💻 About Me
 Hi there! 👋 I'm Vikas, a passionate front-end developer and aspiring full-stack engineer. My journey into the tech world began with curiosity and a dream to build impactful solutions. Over time, I’ve acquired a strong foundation in HTML, CSS, JavaScript, and React, alongside a growing expertise in data structures and algorithms (DSA).
 
 What drives me is the process of solving problems, building projects, and constantly learning. From creating intuitive user interfaces to understanding the intricacies of binary search trees and Dijkstra's algorithm, I love the challenge of turning ideas into reality.
