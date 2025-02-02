@@ -31,7 +31,6 @@ What drives me is the process of solving problems, building projects, and consta
 ![](https://github-readme-stats.vercel.app/api?username=gitVikas898&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gitVikas898&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gitVikas898&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gitVikas898)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gitVikas898&theme=aura&no-frame=false&no-bg=true&margin-w=4)
