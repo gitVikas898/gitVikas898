@@ -1,22 +1,5 @@
 ## 💻 About Me
-Hi there! 👋 I'm Vikas, a passionate front-end developer and aspiring full-stack engineer. My journey into the tech world began with curiosity and a dream to build impactful solutions. Over time, I’ve acquired a strong foundation in HTML, CSS, JavaScript, and React, alongside a growing expertise in data structures and algorithms (DSA).
-
-What drives me is the process of solving problems, building projects, and constantly learning. From creating intuitive user interfaces to understanding the intricacies of binary search trees and Dijkstra's algorithm, I love the challenge of turning ideas into reality.
-
-# 🚀Front-End Development
-  - Built responsive websites and clones of platforms like Myntra and YouTube using HTML5, CSS3, and Tailwind CSS.
-  - Completed interactive projects like an e-commerce site(Amazon clone) and a rock-paper-scissors game using Vanila Javascript.
-  - Gained proficiency in React through the Namaste React course and currently working on the NamsteGPT project.
-# ⚙ Back-End Exploration
-  - Starting to explore backend development with Go, aiming to create robust APIs.
-# 👩🏻‍💻 Data Structures & Algorithms (DSA) 
-  - Studied linked lists, stacks, queues, trees, and graphs in depth through Colt Steele’s DSA course.
-  - Solved problems on GFG,Leetcode and occasionaly on Codeforces(800)
-
-# 🌱 What’s Next?
-  - Getting into Backend development using Node Js
-  - Deep-diving into blockchain technology and Go programming.
-
+Hi there! 👋 I'm Vikas, a passionate front-end developer and aspiring full-stack engineer. My journey into the tech world began with curiosity and a dream to build impactful solutions. Over time, I’ve acquired a strong foundation in HTML, CSS, JavaScript, and React, alongside a growing expertise in data structures and algorithms (DSA). Currently I'm learning Backend Development in Express
 # ✨ Fun Fact 
   - I believe in the journey more than the destination. Every project, every solved algorithm problem, and every "aha" moment counts as a win. My mantra? 🌟 "Build your garden, and the butterflies will come!"
 
