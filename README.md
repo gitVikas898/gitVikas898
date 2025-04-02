@@ -1,7 +1,7 @@
 # 💻 About Me
 I'm Vikas, a passionate front-end developer and aspiring full-stack engineer. My journey into the tech world began with curiosity and a dream to build impactful solutions. Over time, I’ve acquired a strong foundation in HTML, CSS, JavaScript, and React, alongside a growing expertise in data structures and algorithms (DSA). Currently I'm learning Backend Development in Express
 # ✨ Fun Fact 
-  - I believe in the journey more than the destination. Every project, every solved algorithm problem, and every "aha" moment counts as a win. My mantra? 🌟 "Build your garden, and the butterflies will come!"
+I believe in the journey more than the destination. Every project, every solved algorithm problem, and every "aha" moment counts as a win. My mantra? 🌟 "Build your garden, and the butterflies will come!"
 
 # Feel free to check out my repositories, and let’s collaborate on exciting projects! 😊
 
